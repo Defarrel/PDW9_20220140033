@@ -145,7 +145,7 @@ nav .container {
 }
 .section-padding {
   padding: 80px 0;
-  background: #fefefe;
+  background: #0b0235;
 }
 .grid {
   display: grid;
@@ -161,22 +161,22 @@ h4 {
   letter-spacing: 0.51px;
   line-height: 1.35;
   text-align: justify;
-  color: #0b0235;
+  color: #ffffff;
   font-size: 1.75rem;
 }
 .heading {
   font-size: 1.15rem;
-  color: #0b0235;
+  color: #ffffff;
   margin-bottom: 0.5rem;
 }
 p {
-  color: #0b0235;
+  color: #ffffff;
   font-size: 0.9rem;
   padding-bottom: 2rem;
   padding-right: 1rem;
 }
 footer {
-  background: #0b0235;
+  background: #ffffff;
   padding: 60px 0;
   text-align: center;
 }
